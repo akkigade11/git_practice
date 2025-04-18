@@ -6,8 +6,8 @@ result = add(2,5)
 print(result)
 
 
-def sub(a,b):
-    return a-b
+def sub(a,b,c):
+    return a-b-c
 
 result2 = sub(5,3)
 
